@@ -8,6 +8,11 @@
 
 ## Sneak Peek of Home Page 🙈 :
 
+(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden1.png)
+(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden2.png)
+(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden3.png)
+(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden4.png)
+
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
