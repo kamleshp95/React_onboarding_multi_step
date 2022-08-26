@@ -6,12 +6,12 @@
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/JavaScript-Projects/search?l=css)&nbsp;
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/JavaScript-Projects/search?l=javascript)
 
-## Sneak Peek of Home Page 🙈 :
+## Sneak Peek of Eden🙈 :
 
-(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden1.png)
-(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden2.png)
-(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden3.png)
-(https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden4.png)
+![ss](https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden1.png)
+![ss](https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden2.png)
+![ss](https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden3.png)
+![ss](https://github.com/kamleshp95/React_onboarding_multi_step/blob/main/Screenshots/Eden4.png)
 
 <h2>📬 Contact</h2>
 
